@@ -1,0 +1,16 @@
+C:\Users\Nur\source\repos\taraftartimer\bin\Debug\taraftartimer.exe.config
+C:\Users\Nur\source\repos\taraftartimer\bin\Debug\taraftartimer.exe
+C:\Users\Nur\source\repos\taraftartimer\bin\Debug\taraftartimer.pdb
+C:\Users\Nur\source\repos\taraftartimer\obj\Debug\taraftartimer.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\taraftartimer\obj\Debug\taraftartimer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nur\source\repos\taraftartimer\obj\Debug\taraftartimer.Form1.resources
+C:\Users\Nur\source\repos\taraftartimer\obj\Debug\taraftartimer.Properties.Resources.resources
+C:\Users\Nur\source\repos\taraftartimer\obj\Debug\taraftartimer.csproj.GenerateResource.cache
+C:\Users\Nur\source\repos\taraftartimer\obj\Debug\taraftartimer.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\taraftartimer\obj\Debug\taraftartimer.exe
+C:\Users\Nur\source\repos\taraftartimer\obj\Debug\taraftartimer.pdb
+C:\Users\Nur\source\repos\taraftartimer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nur\source\repos\taraftartimer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nur\source\repos\taraftartimer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nur\source\repos\taraftartimer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Nur\source\repos\taraftartimer\obj\Debug\taraftartimer.csproj.ResolveComReference.cache
